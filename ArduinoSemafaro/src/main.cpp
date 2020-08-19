@@ -1,7 +1,7 @@
 #include <Arduino.h>
 
-int RED=3;      // LED vermelho 11
-int YELLOW=4;   // LED amarelo 12
+int YELLOW=3;      // LED vermelho 11
+int RED=4;   // LED amarelo 12
 int GREEN=2;    // LED verde 13
 
 int time_RED = 5000;      // 5 SEGUNDOS
